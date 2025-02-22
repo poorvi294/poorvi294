@@ -1,4 +1,4 @@
-##💫 About Me:
+💫 About Me:
 
 Hi there! 👋 
 I'm Poorvi Agrawal, an Aspiring Data Analyst passionate about transforming data into meaningful insights.
